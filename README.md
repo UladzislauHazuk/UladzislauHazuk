@@ -24,5 +24,5 @@ src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> fro
 applications.
 
 - 💬 Ask me about anything, I am happy to help.
-- 
+
 - :mailbox:How to reach me: vladislav.gazuk@gmail.com
