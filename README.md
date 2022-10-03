@@ -15,14 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there, I'm Vladislav 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-I am a Full Stack Developer <img
-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
-
-- 😄 I’m working as a Software Engineer and contributing to frontend and backend for building web
-applications.
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>  
+  
+ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.  
+ - 😄 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - 💬 Ask me about anything, I am happy to help.
 
-- :mailbox:How to reach me: vladislav.gazuk@gmail.com
+- :mailbox:How to reach me: yesenyasha.work.dev@gmail.com
+
+   
+   
+### :fire: My Stats :
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannaPleshko)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannaPleshko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
