@@ -40,9 +40,7 @@ Here are some ideas to get you started:
    
 ### :fire: My Stats :
 
-<a href="https://github.com/UladzislauHazuk">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UladzislauHazuk&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UladzislauHazuk)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavGazuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UladzislauHazuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
