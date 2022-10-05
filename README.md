@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 
 <div>
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg)" title="Html" alt="Html" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
 
 </div>
 
