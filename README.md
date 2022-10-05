@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 - :mailbox:How to reach me: vladislav.gazuk@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
-   
-### :fire: My Stats :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
@@ -39,6 +37,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
+   
+### :fire: My Stats :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladislavGazuk)](https://github.com/anuraghazra/github-readme-stats)
 
