@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there, I'm Uladzislau 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>  
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32" /></h1>  
   
  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" > from Poland. 
   </a> 
